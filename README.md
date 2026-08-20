@@ -89,8 +89,7 @@ The system focuses on managing:
 
 ```text
 Python
-Odoo
-PostgreSQL
+SQLLite
 ```
 
 ---
