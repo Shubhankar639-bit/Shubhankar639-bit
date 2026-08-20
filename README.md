@@ -15,8 +15,8 @@ I'm currently focused on strengthening my programming fundamentals, building rea
 ```text
 🎓 Engineering Student
 🤖 Branch       → Artificial Intelligence & Data Science
-💻 Programming  → Python | Java | C++
-🧠 Learning     → AI/ML | Data Science | DSA | Backend Development
+💻 Programming  → Python | Java 
+🧠 Learning     → Data Science | DSA | Backend Development
 🚀 Interests    → Software Development | AI | Hackathons
 🔨 Currently    → Building projects & improving my coding skills
 ```
@@ -30,30 +30,13 @@ I'm currently focused on strengthening my programming fundamentals, building rea
 ```text
 Python    ████████████████████
 Java      ███████████████░░░░░
-C++       ████████████░░░░░░░░
-JavaScript ██████████░░░░░░░░░░
 ```
 
 ### 🌐 Web & Backend
 
 ```text
 HTML
-CSS
-JavaScript
 Python
-REST APIs
-Odoo
-```
-
-### 📊 Data & AI
-
-```text
-Python
-NumPy
-Pandas
-Matplotlib
-Machine Learning
-Data Analysis
 ```
 
 ### 🔧 Tools
@@ -63,7 +46,6 @@ Git
 GitHub
 VS Code
 IntelliJ IDEA
-Postman
 ```
 
 ---
@@ -130,11 +112,8 @@ PostgreSQL
 <details>
 <summary>🤖 AI & Data Science</summary>
 
-* NumPy
-* Pandas
 * Data Analysis
 * Data Visualization
-* Machine Learning
 * Artificial Intelligence
 
 </details>
